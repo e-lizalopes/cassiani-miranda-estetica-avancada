@@ -63,7 +63,7 @@ header {
 }
 
 .apresentacao img {
-    width: 800px;
+    width: 100%;
     height: 600px;
     object-fit: cover;
     border-radius: 50px;
