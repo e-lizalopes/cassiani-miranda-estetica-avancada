@@ -48,6 +48,7 @@ header {
 /* ===== Apresentação ===== */
 .apresentacao {
     text-align: center;
+    width: 90%;
     padding: 4rem 1rem;
 }
 
@@ -64,13 +65,9 @@ header {
 
 .apresentacao img {
     width: 100%;
-    height: 600px;
-    object-fit: cover;
-    border-radius: 50px;
-    transition: transform 0.3s;
-      transform: scale(1.05);
-      margin: 5px;
-      padding: 30px;
+    border-radius: 30px;
+    margin-top: 20px;
+  
 }
 /* ===== Sessões de Texto ===== */
 main > div {
